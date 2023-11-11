@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Rest API, Retrofit, Android Software Design Patterns**
 
-- 👯 I’m looking to collaborate on [Projemya](projemya.com)
+- 👯 I’m looking to collaborate on [Projemya](https://projemya.com)
 
 - 📝 I regularly write articles on [https://erdemserhat.com/](https://erdemserhat.com/)
 
