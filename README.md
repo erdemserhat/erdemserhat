@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [1ORWIN](https://github.com/erdemserhat/1ORWIN)
 
-- 🌱 I’m currently learning **Rest API, Retrofit, Android Software Design Patterns**
+- 🌱 I’m currently learning **Rest API, Retrofit, Android Software Design Patterns, Dagger, Modularization**
 
 - 👯 I’m looking to collaborate on [Projemya](https://projemya.com)
 
