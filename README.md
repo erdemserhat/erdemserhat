@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Conceptor](https://github.com/erdemserhat/Conceptor)
 
-- 🌱 I’m currently learning **Rest API, Retrofit, Android Software Design Patterns, Dagger2, Modularization**
+- 🌱 I’m currently learning **Jetpack Compose, Rest API, Retrofit, Android Software Design Patterns, Dagger2, Modularization,**
 
 - 👯 I’m looking to collaborate on [Projemya](https://projemya.com)
 
