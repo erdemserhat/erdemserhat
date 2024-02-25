@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [SoftwareTeamManagement](https://github.com/erdemserhat/SoftwareTeamManagement)
 
-- 🌱 I’m currently learning **Jetpack Compose, Rest API, Retrofit, Android Software Design Patterns, Dagger2, Modularization, MVVM, Firebase, KMM**
+- 🌱 I’m currently learning **Jetpack Compose, Android Software Design Patterns, Hilt, Modularization, MVVM, KMM, Rest Api with Ktor,Retorfit **
 
 - 👯 I’m looking to collaborate on [Projemya](https://projemya.com)
 
