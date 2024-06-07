@@ -6,13 +6,13 @@
 
 - 🔭 I’m currently working on [Harmony Haven]
 
-- 🌱 I’m currently learning **Jetpack Compose, Android Software Design Patterns, Hilt, Modularization, MVVM, KMM, Rest Api with Ktor,Retorfit**
+- 🌱 I’m currently learning **Jetpack Compose, Android Software Design Patterns, Hilt, Modularization, MVVM, KMM, Rest Api, WebSocket, GraphQL with Ktor,Retorfit**
 
 - 👯 I’m looking to collaborate on [Projemya](https://projemya.com)
 
 - 📝 I regularly write articles on [https://erdemserhat.com/](https://erdemserhat.com/)
 
-- 💬 Ask me about **Android, Software Architecture Design**
+- 💬 Ask me about **Android, Software Architecture Design, **
 
 - 📫 How to reach me **me.serhaterdem@gmail.com**
 
