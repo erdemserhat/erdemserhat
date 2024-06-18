@@ -8,7 +8,6 @@
 
 - 🌱 I’m currently learning **Jetpack Compose, Android Software Design Patterns, Hilt, Modularization, MVVM, KMM, Rest Api, WebSocket, GraphQL with Ktor,Retorfit**
 
-- 👯 I’m looking to collaborate on [Projemya](https://projemya.com)
 
 - 📝 I regularly write articles on [https://erdemserhat.com/](https://erdemserhat.com/)
 
