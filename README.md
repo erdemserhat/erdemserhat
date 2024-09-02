@@ -25,10 +25,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=erdemserhat&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 
-# 💻 Tech Stack:
-![jetpack](https://github.com/user-attachments/assets/e7610e2b-9dde-4ebe-82d2-7d550ff6ec4c)
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erdemserhat&show_icons=true&locale=en&layout=compact" alt="erdemserhat" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erdemserhat&show_icons=true&locale=en" alt="erdemserhat" /></p>
