@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erdemserhat&label=Profile%20views&color=0e75b6&style=flat" alt="erdemserhat" /> </p>
 
 - 🔭 I'm currently working as **Full Stack Engineer at Bluesense** - focusing on microservices architecture
-- 🌱 I'm developing **Harmony Haven Super App** - my personal healthcare management project
+- 🌱 I'm developing **Harmony Haven Super App** 
 - 📝 I regularly write articles on [https://erdemserhat.com/](https://erdemserhat.com/)
 - 💬 Ask me about **Full Stack Development, Microservices, Software Architecture, DevOps, Cloud Infrastructure**
 - 
